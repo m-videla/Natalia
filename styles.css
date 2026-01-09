@@ -61,3 +61,18 @@
 [data-bs-theme="dark"] .contact {
   background-color: rgba(255,255,255,0.05);
 }
+
+/* COUNTDOWN */
+.countdown-screen {
+  min-height: 100vh;
+  background: linear-gradient(135deg, var(--azul), var(--verde));
+  color: white;
+}
+
+[data-bs-theme="dark"] .countdown-screen {
+  background: linear-gradient(135deg, #020617, #0f172a);
+}
+
+.countdown {
+  letter-spacing: 2px;
+}
