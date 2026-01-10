@@ -1,7 +1,7 @@
 /*************************
  * CONFIGURACIÓN
  *************************/
-const TEST_MODE = false; // ¨false´ cuando salga la web
+const TEST_MODE = true; // ¨false´ cuando salga la web
 
 /*************************
  * THEME TOGGLE
