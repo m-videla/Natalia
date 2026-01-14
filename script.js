@@ -1,4 +1,4 @@
-const TEST_MODE = false;
+const TEST_MODE = true;
 
 const toggle = document.getElementById("themeToggle");
 const html = document.documentElement;
