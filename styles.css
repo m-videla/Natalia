@@ -3,7 +3,12 @@
   --azul: #1e6091;
 }
 
-* {
+body,
+.site-header,
+.hero,
+.card,
+.contact,
+.countdown-screen {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -62,7 +67,6 @@
   background-color: rgba(255,255,255,0.05);
 }
 
-/* COUNTDOWN */
 .countdown-screen {
   min-height: 100vh;
   background: linear-gradient(135deg, var(--azul), var(--verde));
